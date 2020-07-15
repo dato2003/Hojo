@@ -411,3 +411,84 @@
 2020-04-14 02:21:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2020-04-14 02:21:33 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-wn09",{"micros":0.0}])
 2020-04-14 02:21:33 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-wn09",{"micros":43390,"calls":["discord-sessions-prd-1-62",{"micros":41449,"calls":["start_session",{"micros":37262,"calls":["api-prd-main-0hqr",{"micros":33703,"calls":["get_user",{"micros":3987},"add_authorized_ip",{"micros":1756},"get_guilds",{"micros":1753},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-05-20 16:04:38 | [INFO]    | Discordia 2.6.0
+2020-05-20 16:04:38 | [INFO]    | Connecting to Discord...
+2020-05-20 16:04:40 | [INFO]    | Authenticated as Hojo#6530
+2020-05-20 16:04:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-05-20 16:04:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-05-20 16:04:41 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-h1kf",{"micros":0.0}])
+2020-05-20 16:04:41 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-h1kf",{"micros":52335,"calls":["discord-sessions-prd-1-28",{"micros":50965,"calls":["start_session",{"micros":48803,"calls":["api-prd-main-us-east1-0wjm",{"micros":42726,"calls":["get_user",{"micros":3267},"add_authorized_ip",{"micros":1544},"get_guilds",{"micros":3792},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-05-20 16:05:48 | [INFO]    | Discordia 2.6.0
+2020-05-20 16:05:48 | [INFO]    | Connecting to Discord...
+2020-05-20 16:05:49 | [INFO]    | Authenticated as Hojo#6530
+2020-05-20 16:05:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-05-20 16:05:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-05-20 16:05:50 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-2slj",{"micros":0.0}])
+2020-05-20 16:05:50 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-2slj",{"micros":64284,"calls":["discord-sessions-prd-1-36",{"micros":61828,"calls":["start_session",{"micros":49140,"calls":["api-prd-main-us-east1-7p5m",{"micros":46491,"calls":["get_user",{"micros":2892},"add_authorized_ip",{"micros":1525},"get_guilds",{"micros":2216},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7590,"calls":[]}]}]}])
+2020-07-15 19:45:11 | [INFO]    | Discordia 2.6.0
+2020-07-15 19:45:11 | [INFO]    | Connecting to Discord...
+2020-07-15 19:45:11 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 19:45:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 19:45:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 19:45:12 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-0kvj",{"micros":0.0}])
+2020-07-15 19:45:12 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-0kvj",{"micros":90951,"calls":["discord-sessions-prd-1-18",{"micros":89444,"calls":["start_session",{"micros":80129,"calls":["api-prd-main-70hl",{"micros":76671,"calls":["get_user",{"micros":4651},"add_authorized_ip",{"micros":8054},"get_guilds",{"micros":7189},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}])
+2020-07-15 20:01:06 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:01:07 | [INFO]    | Connecting to Discord...
+2020-07-15 20:01:08 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:01:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:01:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:01:09 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-6xtn",{"micros":0.0}])
+2020-07-15 20:01:09 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-6xtn",{"micros":217661,"calls":["discord-sessions-prd-1-44",{"micros":215491,"calls":["start_session",{"micros":213600,"calls":["api-prd-main-wl3t",{"micros":202471,"calls":["get_user",{"micros":25597},"add_authorized_ip",{"micros":13675},"get_guilds",{"micros":13944},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 20:03:14 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:03:15 | [INFO]    | Connecting to Discord...
+2020-07-15 20:03:15 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:03:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:03:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:03:15 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-cg56",{"micros":0.0}])
+2020-07-15 20:03:16 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-cg56",{"micros":120041,"calls":["discord-sessions-prd-1-7",{"micros":107527,"calls":["start_session",{"micros":103827,"calls":["api-prd-main-xqzd",{"micros":94886,"calls":["get_user",{"micros":10681},"add_authorized_ip",{"micros":11361},"get_guilds",{"micros":13013},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 20:04:12 | [WARNING] | Shard 0 : 1000 - Connection closed
+2020-07-15 20:04:12 | [INFO]    | Shard 0 : Disconnected
+2020-07-15 20:04:12 | [INFO]    | Shard 0 : Reconnecting after 1096 ms...
+2020-07-15 20:04:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:04:21 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-bgzc",{"micros":0.0}])
+2020-07-15 20:04:21 | [INFO]    | Shard 0 : Received RESUMED (["gateway-prd-main-bgzc",{"micros":7354,"calls":["discord-sessions-prd-1-7",{"micros":60}]}])
+2020-07-15 20:09:42 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:09:42 | [INFO]    | Connecting to Discord...
+2020-07-15 20:09:43 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:09:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:09:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:09:43 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-38kz",{"micros":0.0}])
+2020-07-15 20:09:43 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-38kz",{"micros":70768,"calls":["discord-sessions-prd-1-62",{"micros":62369,"calls":["start_session",{"micros":56085,"calls":["api-prd-main-pqpg",{"micros":51091,"calls":["get_user",{"micros":3581},"add_authorized_ip",{"micros":2880},"get_guilds",{"micros":2147},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":9,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 20:10:25 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:10:25 | [INFO]    | Connecting to Discord...
+2020-07-15 20:10:25 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:10:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:10:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:10:26 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-xckl",{"micros":0.0}])
+2020-07-15 20:10:26 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-xckl",{"micros":40691,"calls":["discord-sessions-prd-1-59",{"micros":39250,"calls":["start_session",{"micros":35338,"calls":["api-prd-main-k4ws",{"micros":32470,"calls":["get_user",{"micros":2030},"add_authorized_ip",{"micros":1588},"get_guilds",{"micros":1576},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 20:10:43 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732992522133045349
+2020-07-15 20:10:43 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732992522133045349
+2020-07-15 20:11:24 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:11:24 | [INFO]    | Connecting to Discord...
+2020-07-15 20:11:24 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:11:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:11:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:11:24 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-65tr",{"micros":0.0}])
+2020-07-15 20:11:25 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-65tr",{"micros":81091,"calls":["discord-sessions-prd-1-26",{"micros":80087,"calls":["start_session",{"micros":76377,"calls":["api-prd-main-t6r8",{"micros":72669,"calls":["get_user",{"micros":11627},"add_authorized_ip",{"micros":3572},"get_guilds",{"micros":3557},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}])
+2020-07-15 20:12:29 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:12:29 | [INFO]    | Connecting to Discord...
+2020-07-15 20:12:29 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:12:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:12:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:12:32 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-02f5",{"micros":0.0}])
+2020-07-15 20:12:32 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-02f5",{"micros":105959,"calls":["discord-sessions-prd-1-13",{"micros":104714,"calls":["start_session",{"micros":101432,"calls":["api-prd-main-wh6t",{"micros":98292,"calls":["get_user",{"micros":5851},"add_authorized_ip",{"micros":5264},"get_guilds",{"micros":9218},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":281,"calls":[]}]}]}])
+2020-07-15 20:12:42 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732993027181772860
+2020-07-15 20:14:43 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:14:43 | [INFO]    | Connecting to Discord...
+2020-07-15 20:14:44 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:14:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:14:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:14:44 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-19cl",{"micros":0.0}])
+2020-07-15 20:14:44 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-19cl",{"micros":59192,"calls":["discord-sessions-prd-1-33",{"micros":57671,"calls":["start_session",{"micros":53504,"calls":["api-prd-main-5k7r",{"micros":48250,"calls":["get_user",{"micros":5294},"add_authorized_ip",{"micros":3220},"get_guilds",{"micros":2442},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 20:14:58 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732993597225566259
+2020-07-15 20:16:22 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732993946124288122
