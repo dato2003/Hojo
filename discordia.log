@@ -492,3 +492,178 @@
 2020-07-15 20:14:44 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-19cl",{"micros":59192,"calls":["discord-sessions-prd-1-33",{"micros":57671,"calls":["start_session",{"micros":53504,"calls":["api-prd-main-5k7r",{"micros":48250,"calls":["get_user",{"micros":5294},"add_authorized_ip",{"micros":3220},"get_guilds",{"micros":2442},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
 2020-07-15 20:14:58 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732993597225566259
 2020-07-15 20:16:22 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/493097057846951937/messages/732993946124288122
+2020-07-15 20:52:38 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:52:38 | [INFO]    | Connecting to Discord...
+2020-07-15 20:52:39 | [ERROR]   | 401 - Unauthorized : GET https://discordapp.com/api/v7/users/@me
+2020-07-15 20:52:39 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2020-07-15 20:54:43 | [INFO]    | Discordia 2.6.0
+2020-07-15 20:54:43 | [INFO]    | Connecting to Discord...
+2020-07-15 20:54:43 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 20:54:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 20:54:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:54:44 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-8sdg",{"micros":0.0}])
+2020-07-15 20:54:44 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-8sdg",{"micros":62019,"calls":["discord-sessions-prd-1-1",{"micros":59503,"calls":["start_session",{"micros":56204,"calls":["api-prd-main-f164",{"micros":51332,"calls":["get_user",{"micros":2618},"add_authorized_ip",{"micros":7215},"get_guilds",{"micros":3898},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 20:55:56 | [WARNING] | Shard 0 : 1000 - Connection closed
+2020-07-15 20:55:56 | [INFO]    | Shard 0 : Disconnected
+2020-07-15 20:55:56 | [INFO]    | Shard 0 : Reconnecting after 965 ms...
+2020-07-15 20:55:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 20:55:57 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-stbp",{"micros":0.0}])
+2020-07-15 20:55:57 | [INFO]    | Shard 0 : Received RESUMED (["gateway-prd-main-stbp",{"micros":4661,"calls":["discord-sessions-prd-1-1",{"micros":86}]}])
+2020-07-15 21:13:36 | [INFO]    | Discordia 2.6.0
+2020-07-15 21:13:36 | [INFO]    | Connecting to Discord...
+2020-07-15 21:13:36 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 21:13:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 21:13:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 21:13:37 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-cr6w",{"micros":0.0}])
+2020-07-15 21:13:37 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-cr6w",{"micros":147864,"calls":["discord-sessions-prd-1-25",{"micros":143929,"calls":["start_session",{"micros":140746,"calls":["api-prd-main-xpq3",{"micros":126847,"calls":["get_user",{"micros":5005},"add_authorized_ip",{"micros":9058},"get_guilds",{"micros":2051},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":24,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-15 21:15:17 | [INFO]    | Discordia 2.6.0
+2020-07-15 21:15:17 | [INFO]    | Connecting to Discord...
+2020-07-15 21:15:18 | [INFO]    | Authenticated as Hojo#6530
+2020-07-15 21:15:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-15 21:15:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-15 21:15:19 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-wmcn",{"micros":0.0}])
+2020-07-15 21:15:19 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-wmcn",{"micros":60235,"calls":["discord-sessions-prd-1-12",{"micros":57071,"calls":["start_session",{"micros":50422,"calls":["api-prd-main-1j2c",{"micros":45309,"calls":["get_user",{"micros":3441},"add_authorized_ip",{"micros":1737},"get_guilds",{"micros":4162},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":7,"calls":[]},"presence_connect",{"micros":4449,"calls":[]}]}]}])
+2020-07-17 13:20:01 | [INFO]    | Discordia 2.6.0
+2020-07-17 13:20:01 | [INFO]    | Connecting to Discord...
+2020-07-17 13:20:02 | [INFO]    | Authenticated as Hojo#6530
+2020-07-17 13:20:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-17 13:20:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-17 13:20:03 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-8zln",{"micros":0.0}])
+2020-07-17 13:20:03 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-8zln",{"micros":115735,"calls":["discord-sessions-prd-1-26",{"micros":114076,"calls":["start_session",{"micros":100660,"calls":["api-prd-main-r2lc",{"micros":94803,"calls":["get_user",{"micros":5316},"add_authorized_ip",{"micros":4812},"get_guilds",{"micros":8697},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-17 15:09:22 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-17 15:09:22 | [INFO]    | Shard 0 : Disconnected
+2020-07-17 15:09:22 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-17 15:09:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-17 15:09:23 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-pr4m",{"micros":0.0}])
+2020-07-17 15:09:23 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-pr4m",{"micros":103389,"calls":["discord-sessions-prd-1-22",{"micros":101387,"calls":["start_session",{"micros":95557,"calls":["api-prd-main-lq4z",{"micros":87369,"calls":["get_user",{"micros":11650},"add_authorized_ip",{"micros":4640},"get_guilds",{"micros":7815},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}])
+2020-07-17 18:59:18 | [INFO]    | Shard 0 : Disconnected
+2020-07-17 18:59:19 | [INFO]    | Shard 0 : Reconnecting after 934 ms...
+2020-07-17 18:59:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-17 18:59:19 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-0kvj",{"micros":0.0}])
+2020-07-17 18:59:20 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2020-07-17 18:59:24 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-0kvj",{"micros":84599,"calls":["discord-sessions-prd-1-26",{"micros":82697,"calls":["start_session",{"micros":79227,"calls":["api-prd-main-6gbs",{"micros":71844,"calls":["get_user",{"micros":7285},"add_authorized_ip",{"micros":2251},"get_guilds",{"micros":6789},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1703,"calls":[]}]}]}])
+2020-07-17 22:33:30 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-17 22:33:30 | [INFO]    | Shard 0 : Disconnected
+2020-07-17 22:33:30 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-17 22:33:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-17 22:33:31 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-ghvs",{"micros":0.0}])
+2020-07-17 22:33:31 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-ghvs",{"micros":46745,"calls":["discord-sessions-prd-1-34",{"micros":43659,"calls":["start_session",{"micros":35982,"calls":["api-prd-main-vggq",{"micros":33541,"calls":["get_user",{"micros":3521},"add_authorized_ip",{"micros":1210},"get_guilds",{"micros":4199},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-17 23:56:02 | [WARNING] | 429 - Too Many Requests : retrying after 2139 ms : POST https://discordapp.com/api/v7/channels/733773759475089498/messages
+2020-07-17 23:56:07 | [WARNING] | 429 - Too Many Requests : retrying after 2106 ms : POST https://discordapp.com/api/v7/channels/733773759475089498/messages
+2020-07-17 23:56:16 | [WARNING] | 429 - Too Many Requests : retrying after 2079 ms : POST https://discordapp.com/api/v7/channels/733773759475089498/messages
+2020-07-17 23:58:25 | [WARNING] | 429 - Too Many Requests : retrying after 2255 ms : POST https://discordapp.com/api/v7/channels/699372243016351886/messages
+2020-07-17 23:58:31 | [WARNING] | 429 - Too Many Requests : retrying after 2208 ms : POST https://discordapp.com/api/v7/channels/699372243016351886/messages
+2020-07-18 00:07:11 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2020-07-18 00:07:49 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2020-07-18 01:31:32 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 01:31:32 | [INFO]    | Shard 0 : Reconnecting after 1030 ms...
+2020-07-18 01:31:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 01:31:34 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-j5zd",{"micros":0.0}])
+2020-07-18 01:31:34 | [INFO]    | Shard 0 : Received RESUMED (["gateway-prd-main-j5zd",{"micros":8391,"calls":["discord-sessions-prd-1-34",{"micros":15}]}])
+2020-07-18 12:47:28 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 12:47:29 | [INFO]    | Shard 0 : Reconnecting after 1032 ms...
+2020-07-18 12:47:29 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-07-18 12:47:29 | [INFO]    | Shard 0 : Reconnecting after 2082 ms...
+2020-07-18 12:47:31 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-07-18 12:47:33 | [INFO]    | Shard 0 : Reconnecting after 4255 ms...
+2020-07-18 12:47:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 12:47:42 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-9h40",{"micros":0.0}])
+2020-07-18 12:47:43 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2020-07-18 12:47:48 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-9h40",{"micros":129321,"calls":["discord-sessions-prd-1-66",{"micros":127279,"calls":["start_session",{"micros":123287,"calls":["api-prd-main-tgj2",{"micros":118647,"calls":["get_user",{"micros":5395},"add_authorized_ip",{"micros":10334},"get_guilds",{"micros":13790},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":8,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-18 13:04:04 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 13:04:04 | [INFO]    | Shard 0 : Reconnecting after 1052 ms...
+2020-07-18 13:04:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 13:04:06 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-bxj9",{"micros":0.0}])
+2020-07-18 13:04:06 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2020-07-18 13:04:10 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-bxj9",{"micros":62545,"calls":["discord-sessions-prd-1-69",{"micros":61632,"calls":["start_session",{"micros":46240,"calls":["api-prd-main-sb1p",{"micros":43770,"calls":["get_user",{"micros":3015},"add_authorized_ip",{"micros":3284},"get_guilds",{"micros":4781},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":9,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-18 14:25:21 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-18 14:25:21 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 14:25:21 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-18 14:25:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 14:25:22 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-gkrg",{"micros":0.0}])
+2020-07-18 14:25:22 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-gkrg",{"micros":89001,"calls":["discord-sessions-prd-1-52",{"micros":88031,"calls":["start_session",{"micros":78731,"calls":["api-prd-main-t55s",{"micros":76062,"calls":["get_user",{"micros":8471},"add_authorized_ip",{"micros":3502},"get_guilds",{"micros":7046},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":7,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-18 17:16:33 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-18 17:16:33 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 17:16:33 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-18 17:16:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 17:16:34 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-k0xm",{"micros":0.0}])
+2020-07-18 17:16:34 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-k0xm",{"micros":127222,"calls":["discord-sessions-prd-1-67",{"micros":123151,"calls":["start_session",{"micros":120455,"calls":["api-prd-main-61zn",{"micros":110663,"calls":["get_user",{"micros":17272},"add_authorized_ip",{"micros":5891},"get_guilds",{"micros":12955},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}])
+2020-07-18 19:43:53 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-18 19:43:53 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 19:43:53 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-18 19:43:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 19:43:54 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-qwjd",{"micros":0.0}])
+2020-07-18 19:43:55 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-qwjd",{"micros":267401,"calls":["discord-sessions-prd-1-16",{"micros":265884,"calls":["start_session",{"micros":260564,"calls":["api-prd-main-svm0",{"micros":251781,"calls":["get_user",{"micros":17773},"add_authorized_ip",{"micros":14510},"get_guilds",{"micros":38611},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-18 22:47:38 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-18 22:47:38 | [INFO]    | Shard 0 : Disconnected
+2020-07-18 22:47:38 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-18 22:47:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-18 22:47:39 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-qpjv",{"micros":0.0}])
+2020-07-18 22:47:39 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-qpjv",{"micros":54831,"calls":["discord-sessions-prd-1-34",{"micros":53788,"calls":["start_session",{"micros":49594,"calls":["api-prd-main-620p",{"micros":45390,"calls":["get_user",{"micros":4197},"add_authorized_ip",{"micros":1525},"get_guilds",{"micros":3779},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":1673,"calls":[]}]}]}])
+2020-07-19 00:18:46 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-19 00:18:47 | [INFO]    | Shard 0 : Disconnected
+2020-07-19 00:18:47 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-19 00:18:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-19 00:18:47 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-11xb",{"micros":0.0}])
+2020-07-19 00:18:47 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-11xb",{"micros":74103,"calls":["discord-sessions-prd-1-51",{"micros":72219,"calls":["start_session",{"micros":61874,"calls":["api-prd-main-jxlx",{"micros":56741,"calls":["get_user",{"micros":8424},"add_authorized_ip",{"micros":3119},"get_guilds",{"micros":5197},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":24,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}])
+2020-07-19 13:03:55 | [INFO]    | Shard 0 : Disconnected
+2020-07-19 13:03:56 | [INFO]    | Shard 0 : Reconnecting after 948 ms...
+2020-07-19 13:03:57 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-07-19 13:03:57 | [INFO]    | Shard 0 : Reconnecting after 2066 ms...
+2020-07-19 13:03:59 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-07-19 13:03:59 | [INFO]    | Shard 0 : Reconnecting after 3916 ms...
+2020-07-19 13:04:03 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-07-19 13:04:03 | [INFO]    | Shard 0 : Reconnecting after 7649 ms...
+2020-07-19 13:04:11 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-07-19 13:04:12 | [INFO]    | Shard 0 : Reconnecting after 17258 ms...
+2020-07-19 13:04:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-19 13:04:32 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-b3fc",{"micros":0.0}])
+2020-07-19 13:04:32 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2020-07-19 13:04:36 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-b3fc",{"micros":91483,"calls":["discord-sessions-prd-1-9",{"micros":80712,"calls":["start_session",{"micros":70446,"calls":["api-prd-main-trj9",{"micros":66922,"calls":["get_user",{"micros":9788},"add_authorized_ip",{"micros":5306},"get_guilds",{"micros":8639},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":12,"calls":[]},"presence_connect",{"micros":7683,"calls":[]}]}]}])
+2020-07-19 14:53:42 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-07-19 14:53:42 | [INFO]    | Shard 0 : Disconnected
+2020-07-19 14:53:42 | [INFO]    | Shard 0 : Reconnecting...
+2020-07-19 14:53:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-19 14:53:43 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-7jbn",{"micros":0.0}])
+2020-07-19 14:53:43 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-7jbn",{"micros":103163,"calls":["discord-sessions-prd-1-17",{"micros":97257,"calls":["start_session",{"micros":89863,"calls":["api-prd-main-tgj2",{"micros":80214,"calls":["get_user",{"micros":10348},"add_authorized_ip",{"micros":4104},"get_guilds",{"micros":6619},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-19 15:04:35 | [INFO]    | Shard 0 : Disconnected
+2020-07-19 15:04:35 | [INFO]    | Shard 0 : Reconnecting after 1089 ms...
+2020-07-19 15:04:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-19 15:04:40 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-xd5p",{"micros":0.0}])
+2020-07-19 15:04:40 | [INFO]    | Shard 0 : Received RESUMED (["gateway-prd-main-xd5p",{"micros":7510,"calls":["discord-sessions-prd-1-17",{"micros":49}]}])
+2020-07-19 19:30:47 | [INFO]    | Shard 0 : Disconnected
+2020-07-19 19:30:47 | [INFO]    | Shard 0 : Reconnecting after 951 ms...
+2020-07-19 19:30:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-19 19:30:48 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-ks9d",{"micros":0.0}])
+2020-07-19 19:30:49 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2020-07-19 19:30:52 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-ks9d",{"micros":111446,"calls":["discord-sessions-prd-1-4",{"micros":108624,"calls":["start_session",{"micros":102264,"calls":["api-prd-main-8lh6",{"micros":90062,"calls":["get_user",{"micros":19279},"add_authorized_ip",{"micros":5761},"get_guilds",{"micros":8145},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":4230,"calls":[]}]}]}])
+2020-07-30 15:06:50 | [INFO]    | Discordia 2.6.0
+2020-07-30 15:06:50 | [INFO]    | Connecting to Discord...
+2020-07-30 15:06:51 | [INFO]    | Authenticated as Hojo#6530
+2020-07-30 15:06:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-30 15:06:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-30 15:06:52 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-9h40",{"micros":0.0}])
+2020-07-30 15:06:52 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-9h40",{"micros":76943,"calls":["discord-sessions-prd-1-55",{"micros":75625,"calls":["start_session",{"micros":68722,"calls":["api-prd-main-q6vs",{"micros":66181,"calls":["get_user",{"micros":4131},"add_authorized_ip",{"micros":2264},"get_guilds",{"micros":3538},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":14,"calls":[]},"presence_connect",{"micros":1978,"calls":[]}]}]}])
+2020-07-30 15:16:05 | [INFO]    | Discordia 2.6.0
+2020-07-30 15:16:05 | [INFO]    | Connecting to Discord...
+2020-07-30 15:16:05 | [INFO]    | Authenticated as Hojo#6530
+2020-07-30 15:16:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-30 15:16:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-30 15:16:05 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-xx2d",{"micros":0.0}])
+2020-07-30 15:16:06 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-xx2d",{"micros":131590,"calls":["discord-sessions-prd-1-80",{"micros":130161,"calls":["start_session",{"micros":121493,"calls":["api-prd-main-t2g9",{"micros":116788,"calls":["get_user",{"micros":18518},"add_authorized_ip",{"micros":7725},"get_guilds",{"micros":10007},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":8,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}])
+2020-07-30 15:23:29 | [INFO]    | Discordia 2.6.0
+2020-07-30 15:23:29 | [INFO]    | Connecting to Discord...
+2020-07-30 15:23:30 | [INFO]    | Authenticated as Hojo#6530
+2020-07-30 15:23:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-30 15:23:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-30 15:23:30 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-x73w",{"micros":0.0}])
+2020-07-30 15:23:30 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-x73w",{"micros":58171,"calls":["discord-sessions-prd-1-28",{"micros":56269,"calls":["start_session",{"micros":50492,"calls":["api-prd-main-8cz0",{"micros":46820,"calls":["get_user",{"micros":4648},"add_authorized_ip",{"micros":1301},"get_guilds",{"micros":1538},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}])
+2020-07-30 15:29:05 | [INFO]    | Discordia 2.6.0
+2020-07-30 15:29:05 | [INFO]    | Connecting to Discord...
+2020-07-30 15:29:05 | [INFO]    | Authenticated as Hojo#6530
+2020-07-30 15:29:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-07-30 15:29:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-07-30 15:29:06 | [INFO]    | Shard 0 : Received HELLO (["gateway-prd-main-8mkx",{"micros":0.0}])
+2020-07-30 15:29:06 | [INFO]    | Shard 0 : Received READY (["gateway-prd-main-8mkx",{"micros":41417,"calls":["discord-sessions-prd-1-48",{"micros":39805,"calls":["start_session",{"micros":32793,"calls":["api-prd-main-430j",{"micros":30132,"calls":["get_user",{"micros":3503},"add_authorized_ip",{"micros":1822},"get_guilds",{"micros":1470},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":15,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}])
+2020-07-30 15:32:33 | [ERROR]   | 404 - Not Found : DELETE https://discordapp.com/api/v7/channels/665628439193059338/messages/738358291545194567
+2020-07-30 15:34:02 | [ERROR]   | 404 - Not Found : DELETE https://discordapp.com/api/v7/channels/665628439193059338/messages/738358662006964277

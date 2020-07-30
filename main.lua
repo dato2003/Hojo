@@ -74,10 +74,10 @@ function Vivi(message)
     local StartingIndex = 0
     local IDTable = {}
     local TableSize = 0
-    for PID = 0, 7 do
+    for PID = 0, 33 do
         local file,errorString = io.open("index.html","w+")
         local res,code,response_headers = https.request{
-            url = "http://rule34.xxx/index.php?page=post&s=list&tags=wa2000_%28girls_frontline%29+&pid=" .. PID*42,
+            url = "https://safebooru.org/index.php?page=post&s=list&tags=wa2000_%28girls_frontline%29+&pid=" .. PID*40,
             sink = ltn12.sink.file(file:write(),errorString)
         }
     
@@ -94,7 +94,7 @@ function Vivi(message)
         end
         --print(TableSize)
         --print(PID)
-        --print("http://rule34.xxx/index.php?page=post&s=list&tags=wa2000_%28girls_frontline%29+&pid=" .. PID*42)
+        print("https://safebooru.org/index.php?page=post&s=list&tags=wa2000_%28girls_frontline%29+&pid=" .. PID*40)
         StartingIndex = 0
     end
     
@@ -105,7 +105,7 @@ function Vivi(message)
     
     local file,errorString = io.open("img.html","w+")
     local res,code,response_headers = https.request{
-        url = "http://rule34.xxx/index.php?page=post&s=view&id=" .. IDTable[ChosenImgIndex],
+        url = "https://safebooru.org/index.php?page=post&s=view&id=" .. IDTable[ChosenImgIndex],
         sink = ltn12.sink.file(file:write(),errorString)
     }
     print(IDTable[ChosenImgIndex])
@@ -144,6 +144,7 @@ function Vivi(message)
     message.author:send{
         file = "Pic.png"
     }]]
+    message.channel:send("Sauce Acquired")
     message.author:send(URLtoIMG)
     message:delete()
 end
@@ -235,8 +236,8 @@ Client:on("messageCreate", function(message)
         message.channel:send(string.lower(string.sub(message.content,2,#message.content)))    
     end
     if(string.lower(string.sub(message.content,1,#message.content)) == "lykourgos") then
-          Vivi(message)
+        Vivi(message)
     end
 end)
 
-Client:run("Bot Njk4NTQyMDExOTgwMDU0NjQ4.XsUbqQ.xJJhvTKMXRJg3ASvP_1c-Y3s7aQ")
+Client:run("Bot Njk4NTQyMDExOTgwMDU0NjQ4.Xw80pQ.ynE4YqFY0hgetunULnTm8RqEmIE")
